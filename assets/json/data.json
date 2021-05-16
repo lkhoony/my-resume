@@ -1,0 +1,317 @@
+{   
+    "sections" : [
+
+        {
+            "id" : 0,
+            "title" : "about",
+            "subtitle" : 
+                "긍정적인 태도로 끊임없이 배우는 Web Front-End 및 Back-End 개발자, 이광훈입니다. ",
+            "icon" : "book-content",
+            "info" : {
+                "title" : "Web Front End & Back End Developer. ",
+                "subtitle" : "React, Vue와 같은 Front End 개발과 Spring을 사용한 Back End 개발에 관심있습니다.",
+                "user" : {
+                    "birthday" : "7 April 1995",
+                    "age" : "26",
+                    "website" : "www.github.com/lkhoony",
+                    "degree" : "Bachelor",
+                    "phone" : "+82 10 2852 0975",
+                    "email" : "lkh14011424@gmail.com",
+                    "city" : "Seoul, South Korea",
+                    "freelance" : "Available"
+                },
+                "description" : "제가 웹 개발자가 된 이유는 흥미를 느낀 분야에 대해서는 전문가가 되고자 하는 저의 성격 때문입니다. 웹 분야의 전문가가 되기위해 휴학까지 불사하며 웹 어플리케이션 분야에 대한 지식을 채운 저의 성격과 경험으로 주어진 업무에 흥미를 느껴 해당 업무의 전문가가 되겠습니다."
+            }
+        },
+
+        {
+            "id" : 1,
+            "title" : "facts",
+            "subtitle" : "지금까지 대표적으로 5번의 개인 및 팀 프로젝트를 진행하였고 이 중 경진대회에서 3번의 수상을 했습니다. 이렇게 진행했던 프로젝트를 Github에 업로드하여 소스코드를 관리하고 있습니다. 또한 3개의 기사 자격증을 취득하여 CS를 포함하는 전공 지식을 채웠습니다.",
+            "icon" : "pencil",
+            "facts" : [
+                {
+                    "id" : 0,
+                    "title" : "Projects",
+                    "count" : 5,
+                    "icon" : "journal-richtext",
+                    "item" : [
+                        {
+                            "id" : 0,
+                            "activity" : "제주 관광지 소개 웹 사이트"
+                        },
+                        {
+                            "id" : 1,
+                            "activity" : "제주 전기차 충전소 정보제공 웹 서비스"
+                        },
+                        {
+                            "id" : 2,
+                            "activity" : "전력 사용량 분석 및 CCHP 발전 스케줄링 웹 어플리케이션"
+                        }
+                    ]
+                },
+                {
+                    "id" : 1,
+                    "title" : "Awards",
+                    "count" : 3,
+                    "icon" : "award",
+                    "item" : [
+                        {
+                            "id" : 0,
+                            "activity" : "소프트웨어 융합대학 창의설계경진대회 (최우수상)"
+                        },
+                        {
+                            "id" : 1,
+                            "activity" : "문화데이터 활용 경진대회 (최우수상)"
+                        },
+                        {
+                            "id" : 2,
+                            "activity" : "교내 공학인증 창의설계경진대회 (동상)"
+                        }
+                    ]
+                },
+                {
+                    "id" : 2,
+                    "title" : "Repositories",
+                    "count" : 15,
+                    "icon" : "github",
+                    "item" : [
+                        {
+                            "id" : 0,
+                            "activity" : "CS정리 Repository (Computer Network, Algorithm)"
+                        },
+                        {
+                            "id" : 1,
+                            "activity" : "프로젝트 Repositories "
+                        }
+                    ]
+                },
+                {
+                    "id" : 3,
+                    "title" : "Certificaations",
+                    "count" : 3,
+                    "icon" : "clipboard",
+                    "item" : [
+                        {
+                            "id" : 0,
+                            "activity" : "정보처리기사"
+                        },
+                        {
+                            "id" : 1,
+                            "activity" : "측량및지형공간정보기사"
+                        },
+                        {
+                            "id" : 2,
+                            "activity" : "정보처리기능사"
+                        }
+                    ]
+                }
+            ]
+        },
+
+        {
+            "id" : 2,
+            "title" : "skills",
+            "subtitle" : "React, Vue를 포함하는 Front End에 관심이 있지만 Spring, Flask를 활용하여 WAS 개발 역할을 맡은 프로젝트 경험도 있기 때문에 Back End 언어 및 프레임워크에도 강점이 있습니다.",
+            "icon" : "book-content",
+            "skills" : [
+                {
+                    "id" : 0,
+                    "skill" : "HTML",
+                    "proficiency" : 90
+                },
+                {
+                    "id" : 1,
+                    "skill" : "CSS",
+                    "proficiency" : 85
+                },
+                {
+                    "id" : 2,
+                    "skill" : "JAVASCRIPT",
+                    "proficiency" : 75
+                },
+                {
+                    "id" : 3,
+                    "skill" : "REACT",
+                    "proficiency" : 75
+                },
+                {
+                    "id" : 4,
+                    "skill" : "VUE",
+                    "proficiency" : 80
+                },
+                {
+                    "id" : 5,
+                    "skill" : "JAVA",
+                    "proficiency" : 90
+                },
+                {
+                    "id" : 6,
+                    "skill" : "SPRING",
+                    "proficiency" : 85
+                },
+                {
+                    "id" : 7,
+                    "skill" : "PYTHON",
+                    "proficiency" : 70
+                },
+                {
+                    "id" : 8,
+                    "skill" : "FLASK",
+                    "proficiency" : 60
+                }
+                
+            ]
+        },
+
+        {
+            "id" : 3,
+            "title" : "resume",
+            "subtitle" : "저는 학사 과정 동안 흥미를 느낀 분야의 지식을 채우기 위해 컴퓨터공학과로 복수전공 하였으며 학부 연구생으로 1년간 근무하였습니다. 이러한 경험과 지식을 바탕으로 코오롱 베니트에서 Front End 개발자로써 커리어를 시작했습니다.",
+            "icon" : "file-blank",
+            "resumes" : [
+                {
+                    "id" : 0,
+                    "carrier" : "학력",
+                    "items" : [
+                        {   
+                            "id" : 0,
+                            "title" : "컴퓨터공학과 & 공간정보공학과 학사",
+                            "period" : "2014-2021",
+                            "emphasized" :"세종대학교, 서울",
+                            "description" : "carrier 설명입니다.",
+                            "activities" : [
+                                {
+                                    "id" : 0,
+                                    "activity" : "컴퓨터공학과(공학사, 복수전공), 공간정보공학과(공학사, 주전공)"
+                                },
+                                {
+                                    "id" : 1,
+                                    "activity" : "C프로그래밍 및 실습, 자료구조, 알고리즘, 웹 프로그래밍, 컴퓨터 구조, 컴퓨터 네트워크 수강"
+                                },
+                                {
+                                    "id" : 2,
+                                    "activity" : "소프트웨어 융합대학 창의설계경진대회 (최우수상)"
+                                },
+                                {
+                                    "id" : 3,
+                                    "activity" : "교내 공학인증 창의설계경진대회 (동상)"
+                                }
+                            ]
+                        },
+
+                        {   
+                            "id" : 1,
+                            "title" : "위성항법연구실 학부연구생",
+                            "period" : "2018-2019",
+                            "emphasized" :"세종대학교 GNSS(위성항법)연구실 , 서울",
+                            "description" : "carrier 설명입니다.",
+                            "activities" : [
+                                {
+                                    "id" : 0,
+                                    "activity" : "데이터 표준화 프로그램 개발 및 데이터 분석 자동화 업무"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id" : 1,
+                    "carrier" : "경력",
+                    "items" : [
+                        {   
+                            "id" : 0,
+                            "title" : "Front End Developer",
+                            "period" : "2021-present",
+                            "emphasized" :"코오롱베니트, 과천",
+                            "description" : "carrier 설명입니다.",
+                            "activities" : [
+                                {
+                                    "id" : 0,
+                                    "activity" : "React, Vue.js"
+                                },
+                                {
+                                    "id" : 1,
+                                    "activity" : "디자인 시스템 POC 설계 및 구축"
+                                }
+                            ]
+                        }
+                    ]
+                }
+
+            ]
+        },
+
+        {
+            "id" : 4,
+            "title" : "portfolio",
+            "subtitle" : "제가 흥미를 느낀 웹 분야에 대해 주도적으로 진행했던 프로젝트 및 결과물을 소개합니다.",
+            "icon" : "book-content",
+            "portfolios" : [
+                {
+                    "id" : 0,
+                    "title" : "YOLO 옵서예",
+                    "subtitle" : "제주도 지역별 베스트 관광지, 맛집, 엑티비티 소개 웹 사이트",
+                    "main" : "assets/img/yolo-obseoye.PNG",
+                    "detailPage" : "yolo-obseoye-details.html",
+                    "details" : [
+                        {
+                            "id" : 0,
+                            "src" : "img src"
+                        },
+                        {
+                            "id" : 0,
+                            "src" : "img src"
+                        },
+                        {
+                            "id" : 0,
+                            "src" : "img src"
+                        }
+                    ]
+                },
+                {
+                    "id" : 1,
+                    "title" : "EV 옵서예",
+                    "subtitle" : "실시간 제주도 전기차 충전소 정보 제공 웹 서비스",
+                    "main" : "assets/img/ev-obseoye.png",
+                    "detailPage" : "ev-obseoye-details.html",
+                    "details" : [
+                        {
+                            "id" : 0,
+                            "src" : "img src"
+                        },
+                        {
+                            "id" : 0,
+                            "src" : "img src"
+                        },
+                        {
+                            "id" : 0,
+                            "src" : "img src"
+                        }
+                    ]
+                },
+                {
+                    "id" : 2,
+                    "title" : "Capstone",
+                    "subtitle" : "전력 사용량 예측을 통한 열 병합 발전 스케줄링 웹 어플리케이션",
+                    "main" : "assets/img/capstone.png",
+                    "detailPage" : "capstone-details.html",
+                    "details" : [
+                        {
+                            "id" : 0,
+                            "src" : "img src"
+                        },
+                        {
+                            "id" : 0,
+                            "src" : "img src"
+                        },
+                        {
+                            "id" : 0,
+                            "src" : "img src"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

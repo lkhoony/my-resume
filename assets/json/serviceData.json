@@ -1,0 +1,30 @@
+{
+    "id" : 4,
+    "title" : "services",
+    "subtitle" : "저는 프로젝트에서 개발한 웹 페이지 및 웹 어플리케이션을 Heroku와 같은 클라우드 서비스에 배포하여 실제로 웹 서비스를 운영하는 경험을 갖추고 있습니다.",
+    "icon" : "server",
+    "services" : [
+        {
+            "id" : 0,
+            "service" : "YOLO 옵서예",
+            "description" : "제주도 지역별 베스트 관광지, 맛집, 엑티비티 소개 웹 사이트 ",
+            "url" : "https://yolo-obseoye.herokuapp.com/",
+            "src" : "assets/img/yolo-obseoye.PNG"
+        },
+        {
+            "id" : 1,
+            "service" : "EV 옵서예",
+            "description" : "실시간 제주도 전기차 충전소 현황 및 주변 장소 정보 제공 웹 서비스",
+            "url" : "https://github.com/lkhoony/EV-obseoye",
+            "src" : "assets/img/ev-obseoye.png"
+        },
+        {
+            "id" : 2,
+            "service" : "Capstone",
+            "description" : "교내 전력 사용량 예측을 통한 경제성 분석 및 삼중 열 병합 발전 스케줄링 웹 어플리케이션",
+            "url" : "https://github.com/lkhoony/Capstone",
+            "src" : "assets/img/capstone.png"
+        }
+        
+    ]
+}
