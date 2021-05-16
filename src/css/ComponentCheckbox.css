@@ -1,0 +1,26 @@
+.component_checkbox{
+    text-align: center;
+    position: fixed;
+    z-index : 10000;
+    left: 50%;
+    transform: translate(-50%,0);
+    width: 100%;
+    background-color: rgba(0,0,0,0.3);
+    transition-property: display;
+    transition-duration: 3s;
+}
+
+.checkbox_item{
+    display: inline-block;
+    padding: 0 10px;
+}
+
+.checkbox_item label {
+    font-size: 12px;
+    padding-left: 5px;
+    line-height: 16px;
+}
+
+.component_checkbox{
+    vertical-align: middle;
+}
