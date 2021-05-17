@@ -20,7 +20,7 @@ class Main extends Component{
                     <SectionTitle title={this.props.data.sections[0].title} subtitle={this.props.data.sections[0].subtitle}></SectionTitle>
                     <Row>
                         <Col colNum={3}>
-                            <Image src={"assets/img/profile-img2.jpg"} alt={"mine"} width={300} height={350}></Image>
+                            <Image src={"assets/img/profile-img2.JPG"} alt={"mine"} width={300} height={350}></Image>
                         </Col>
                         <Col colNum={9}>
                             <Head
